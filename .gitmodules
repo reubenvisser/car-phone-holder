@@ -1,3 +1,6 @@
 [submodule "openscad-generics"]
 	path = openscad-generics
 	url = git@github.com:reubenvisser/openscad-generics.git
+[submodule "scad/openscad-generics"]
+	path = scad/openscad-generics
+	url = git@github.com:reubenvisser/openscad-generics.git
